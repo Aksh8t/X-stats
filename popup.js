@@ -1,4 +1,3 @@
-// popup.js
 document.addEventListener("DOMContentLoaded", () => {
   loadData();
   document.getElementById("timeRange").addEventListener("change", loadData);
